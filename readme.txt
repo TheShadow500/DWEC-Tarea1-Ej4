@@ -1,0 +1,1 @@
+A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward as backward (for example, "racecar," "luz azul" or "1234321"). Create a JavaScript program that checks whether the entered characters form a palindrome.
